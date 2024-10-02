@@ -1,0 +1,82 @@
+/* General Styles */
+body {
+    background-color: #EED7B6;
+    color: #280500;
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2, h3 {
+    color: #E58848;
+}
+
+.navbar {
+    background-color: #280500;
+}
+
+.navbar-nav .nav-link {
+    color: #DD803D;
+}
+
+.hero {
+    background-image: url('images/hero.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-title {
+    color: #E58848;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.section-header {
+    padding: 60px 0;
+    background-color: #F0E5D5;
+}
+
+.btn-read-more, .btn-book {
+    background-color: #E58848;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.our-areas {
+    padding: 60px 0;
+    background-color: #EED7B6;
+}
+
+.our-areas img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.footer {
+    background-color: #280500;
+    padding: 30px 0;
+    color: white;
+}
+
+.footer a {
+    color: #DD803D;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.footer-bottom {
+    padding-top: 15px;
+}
+
+hr {
+    border-color: white;
+}
