@@ -9,12 +9,22 @@
   },
   "keywords": [],
   "author": "vinter achieno",
-  "license": "ISC",
+  "license": "MIT",
   "description": "This is Alleen Landing Page",
   "devDependencies": {
     "parcel": "^2.12.0"
   },
   "dependencies": {
-    "bootstrap": "^5.3.3"
-  }
+    "bootstrap": "^5.3.3",
+    "firebase": "^10.14.0"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anittavinter/Project-Website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Anittavinter/Project-Website/issues"
+  },
+  "homepage": "https://github.com/Anittavinter/Project-Website#readme"
 }

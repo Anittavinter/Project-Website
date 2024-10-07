@@ -18,19 +18,15 @@ h1, h2, h3 {
 }
 
 .hero {
-<<<<<<< HEAD
-    background-image: url('images/hero.jpg');
     background-size: cover;
     background-position: center;
     height: 80vh;
     display: flex;
     align-items: center;
     justify-content: center;
-=======
     background-size: cover;
     height: 100vh;
     background-color: #280500;
->>>>>>> 55de07b (project initialie)
 }
 
 .hero-title {
@@ -47,12 +43,10 @@ h1, h2, h3 {
 .btn-read-more, .btn-book {
     background-color: #E58848;
     color: white;
-<<<<<<< HEAD
     border: none;
     padding: 10px 20px;
     margin-top: 10px;
     cursor: pointer;
-=======
     border-radius: 15px;
     padding: 10px 20px;
     margin-top: 10px;
@@ -63,7 +57,6 @@ h1, h2, h3 {
 .btn-read-more:hover, .btn-book:hover {
     background-color: #EED7B6;
     color: black;
->>>>>>> 55de07b (project initialie)
 }
 
 .our-areas {
@@ -99,14 +92,8 @@ h1, h2, h3 {
 hr {
     border-color: white;
 }
-<<<<<<< HEAD
-=======
 
 .logo {
     width: 100px;
     height: 50px;
 }
-
-
-
->>>>>>> 55de07b (project initialie)
